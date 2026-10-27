@@ -82,7 +82,7 @@ Esto equivale a unos **67.2 MB decimales para los pesos**. Es una estimación de
 
 ## 5. Evidencia
 
-![Captura real de la Model Card de Jordo23/vehicle-classifier](assets/model-card-vehicle-classifier.jpg)
+![Captura real de la Model Card de Jordo23/vehicle-classifier](model-card-vehicle-classifier.jpg)
 
 **Fuente:** [Model Card en Hugging Face](https://huggingface.co/Jordo23/vehicle-classifier). **Captura:** 13 de octubre de 2026. La imagen documenta el modelo elegido; no es una prueba de inferencia ni una medición de precisión.
 
