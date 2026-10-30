@@ -1,4 +1,4 @@
-# Comandos que aprendí
+# Lista de Comandos
 
 | Comando | Para qué sirve |
 |---|---|
