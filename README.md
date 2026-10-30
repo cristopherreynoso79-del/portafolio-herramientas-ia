@@ -1,6 +1,6 @@
 # Portafolio de Cristopher Cortés Reynoso
 
-Herramientas de Procesamiento para IA · Grupo A · Ibero León · Otoño 2026
+Herramientas de Procesamiento para IA ·
 
 ## Sobre mí
 
