@@ -3,7 +3,7 @@
 Identificación orientativa de marca, modelo y año de un vehículo a partir de una fotografía.
 
 **Proyecto integrador · Herramientas de IA**  
-**Grupo:** A1 · **Modalidad:** Equipo · **Práctica 3**
+
 
 ## Integrantes
 
