@@ -1,6 +1,6 @@
 # Equipo · Clasificador de vehículos
 
-**Curso:** Herramientas de IA · **Grupo:** A1  
+**Curso:** Herramientas de IA · 
 **Proyecto:** Clasificación de marca, modelo y año de vehículos a partir de fotografías.
 
 | Integrante |
