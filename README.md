@@ -1,6 +1,6 @@
 # Portafolio de Cristopher Cortés Reynoso
 
-Herramientas de Procesamiento para IA ·
+Herramientas de Procesamiento para IA 
 
 ## Sobre mí
 
