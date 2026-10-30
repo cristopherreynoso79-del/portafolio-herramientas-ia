@@ -1,6 +1,6 @@
 # Portafolio de Cristopher Cortés
 
-Herramientas de Procesamiento para IA · Ibero León · Otoño 2026
+Herramientas de Procesamiento para IA ·
 
 ## Sobre mí
 
